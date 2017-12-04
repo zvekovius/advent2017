@@ -1,2 +1,2 @@
 # advent2017
-Advent of Cody for 2017
+Advent of Code for 2017
